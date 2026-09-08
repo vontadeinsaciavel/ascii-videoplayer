@@ -1,10 +1,8 @@
-#!/usr/bin/env bash
-#
 # will need you to have ffmpeg and jp2a installed to work
 # make this file executable with chmod +x command
 # YOU WILL NEED TO HAVE YOUR VIDEO ON THE SAME FOLDER!!
 # example (executing on terminal): ./ascii-badapple.sh badapple.mp4
-# its possible to configure the width and fps to!!>> ./ascii-badapple.sh badapple.mp4 15 150 (15 fps with 150 of width)
+# its possible to configure the width and fps to!!>> ./ascii-badapple.sh badapple.mp4 15 150 (15 fps)
 # hope you like this!!
 set -euo pipefail
 
