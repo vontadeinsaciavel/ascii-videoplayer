@@ -5,9 +5,9 @@ if you want to make your changes and upload under you name, i dont mind it, just
 if you do change this and upload on your own, dont harm any pc or.
 
 instructions for use of loader.sh:
-will need you to have ffmpeg and jp2a installed to work
-make this file executable with chmod +x command
-#YOU WILL NEED TO HAVE YOUR VIDEO ON THE SAME FOLDER!!
-example (executing on terminal): ./ascii-badapple.sh badapple.mp4
-its possible to configure the width and fps to!!>> ./ascii-badapple.sh badapple.mp4 15 150 (15 fps)
+will need you to have ffmpeg and jp2a installed to work;
+make this file executable with chmod +x command;
+#YOU WILL NEED TO HAVE YOUR VIDEO ON THE SAME FOLDER!!;
+example (executing on terminal): ./ascii-badapple.sh badapple.mp4;
+its possible to configure the width and fps to!!>> ./ascii-badapple.sh badapple.mp4 15 150 (15 fps);
 hope you like this!!
